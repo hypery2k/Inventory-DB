@@ -1,2 +1,10 @@
 // Spring Roo 1.1.5.RELEASE [rev d3a68c3] log opened at 2011-08-14 14:16:11
 // Spring Roo 1.1.5.RELEASE [rev d3a68c3] log closed at 2011-08-14 14:16:11
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log opened at 2011-08-14 14:21:45
+hint
+project --topLevelPackage de.mare.inventorydb
+hint
+persistence setup --database H2_IN_MEMORY --provider HIBERNATE 
+hint
+entity --class model.Media
+// Spring Roo 1.1.5.RELEASE [rev d3a68c3] log closed at 2011-08-17 10:57:10
